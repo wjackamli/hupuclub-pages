@@ -1,2 +1,14 @@
 # hupuclub-pages
-HTML page archive and documentation
+
+HTML 发布文件仓库
+
+这个仓库用于保存自动发布的独立 HTML 页面。
+
+## 页面文件
+
+- 每个 HTML 文件可独立访问
+- 文件名称由发布任务生成
+
+## 访问备注
+
+GitHub Pages 生效可能需要短暂等待，实际状态以访问结果为准。
